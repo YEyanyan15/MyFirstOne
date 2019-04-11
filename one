@@ -1,0 +1,7 @@
+class Fraction:
+     def __init__(self,top,bottom):
+         self.num = top
+         self.den = bottom
+def __str__ (self):
+         return syr("分子是"+self.num+"分母是",self.den)
+myfraction = Fraction(1,2)
